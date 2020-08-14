@@ -21,7 +21,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ url('/create') }}">Add New</a>
+                <a class="nav-link" href="{{ url('/create') }}">Add New Student</a>
             </li>
 
         </ul>
